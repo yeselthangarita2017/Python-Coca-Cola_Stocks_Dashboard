@@ -2,7 +2,7 @@
 
 From January to March 2023, I received advice and support from professionals working in technology companies to develop this Coca-Cola Stock Analytics dashboard. This is a personal project I built to put in practice the tools I am currently learning. 
 
-I built this dashboard by pulling the information from [Kaggle Coca-Cola] (https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated) public dataset. I used Google Sheets and Dataiku DSS for experiments and parse the dates column. I used Looker Studio to create this dashboard to facilitate the decision-making analysis of shareholders (CEO, current employees) and prospectus who are considering investing in Coca-Cola's Stocks. 
+I built this dashboard by pulling the information from [Kaggle Coca-Cola](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated) public dataset. I used Google Sheets and Dataiku DSS for experiments and parse the dates column. I used Looker Studio to create this dashboard to facilitate the decision-making analysis of shareholders (CEO, current employees) and prospectus who are considering investing in Coca-Cola's Stocks. 
 
 To access the dashboard, click here: Coca-Cola Stock Analytics dashboard (link). To access the Python code to solve the missing data challenge, check the attached .ipynb file . 
 
