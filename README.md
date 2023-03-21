@@ -4,6 +4,8 @@ From January to March 2023, I received advice and support from professionals wor
 
 I built this dashboard by pulling the information from Kaggle Coca-Cola (link) public dataset. I used Google Sheets and Dataiku DSS for experiments and parse the dates column. I used Looker Studio to create this dashboard to facilitate the decision-making analysis of shareholders (CEO, current employees) and prospectus who are considering investing in Coca-Cola's Stocks. 
 
+To access the dashboard, click here: Coca-Cola Stock Analytics dashboard. To access the Python code to solve the missing data challenge, check the attached .ipynb file. 
+
 ## Coca-Cola Stocks Analytics 
 
 The Kaggle Coca-Cola Stock History dataset ranges from January 2, 1962 to October 26, 2022. The weekends and holidays were missing in the original data. Following domain of expertise principles, I added the missing rows and filled them with the value of the previous row. Some of the information found in this dataset is: 
