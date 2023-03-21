@@ -1,4 +1,4 @@
-# Missing_data_Coca-Cola Dashboard
+# Python_Missing_data_Coca-Cola Dashboard
 
 From January to March 2023, I received advice and support from professionals working in technology companies to develop this Coca-Cola Stock Analytics dashboard. This is a personal project I built to put in practice the tools I am currently learning. 
 
