@@ -8,7 +8,7 @@ Finding and fixing data quality issues:
 
 a) Extraction - The data was pulled from Kaggle as a .csv file and uploaded on Looker Studio to create exploratory visualizations and come up with a series of diagnoses of the challenge and quickly debut. 
 
-b) Transformation - Dataiku DSS supported the analysis of rows and columns, especially on the "date" column. This is how I discovered that there were random clusters of rows in the date column with different date formats. Further, I noticed that weekends and holidays values were missing so I parsed the date column with Dataiku DSS and extracted it as a .csv file. I wrote Python code to insert missing days and added the value of the previous day to the missing rows.
+b) Transformation - Dataiku DSS supported the analysis of rows and columns, especially on the "date" column. This is how I discovered that there were random clusters of rows in the date column with different date formats. Further, I noticed that weekends and holidays values were missing so I parsed the date column with Dataiku DSS and extracted it as a .csv file. I wrote Python code to insert missing days, added the value of the previous day and extracted it as a .csv to upload on Looker Studio.
 
 
 
