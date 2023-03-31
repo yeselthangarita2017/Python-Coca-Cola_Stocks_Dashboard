@@ -19,11 +19,11 @@ To access the dashboard, click here: [Coca-Cola Stock Analytics dashboard](https
 
 The Kaggle [Coca-Cola Stock History](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated) dataset ranges from January 2, 1962 to October 26, 2022. The weekends and holidays were missing in the original data. Following domain of expertise principles, I added the missing rows and filled them with the value of the previous row. Some of the information found in this dataset is: 
 
-* High price 
-* Close price 
-* Stock splits 
-* Dividends
-* Volume 
+* Volume Traded
+* Dividends 
+* High Price
+* Close Price
+* Stock Splits 
 
 I believe other interesting analysis can be done with this dataset. 
 
