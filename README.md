@@ -7,6 +7,7 @@ I built this dashboard by pulling the information from [Kaggle Coca-Cola Stock H
 Here are a few highlights:
 
 1. Low volatility of the stock price and consistent increase in dividends and high/close prices - this makes it attractive for long-term investments, quantitatively shows a) confidence of the shareholders on the company's management, and b) Coca-Cola's commitment to paying dividends to shareholders.
+   
    Comparison with competitors' data, such as PepsiCo, Coca-Cola has performed slightly better in stock splits than 
    [PepsiCo over the last 20 years](https://finance.yahoo.com/quote/PEP/historyperiod1=1035244800&period2=1680134400&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) 
    and the last 5 years, which may indicate that Coca-Cola has stronger growth prospects. 
