@@ -9,8 +9,7 @@ Here are a few highlights:
 1. Low volatility of the stock price and consistent increase in dividends and high/close prices - this makes it attractive for long-term investments, quantitatively showing a) confidence of the shareholders in the company's management, and b) Coca-Cola's commitment to paying dividends to shareholders.
    
    In comparison with competitors' data, such as PepsiCo, Coca-Cola has performed slightly better in stock splits than 
-   [PepsiCo over the last 20 years](https://finance.yahoo.com/quote/PEP/historyperiod1=1035244800&period2=1680134400&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true) 
-   , which may indicate that Coca-Cola has a stronger growth prospects. 
+   [PepsiCo over the last 20 years](https://finance.yahoo.com/quote/PEP/historyperiod1=1035244800&period2=1680134400&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true), which may indicate that Coca-Cola has a stronger growth prospects. 
 
 2. Finding and fixing data quality issues:
    
