@@ -21,7 +21,7 @@ Here are a few highlights:
    weekends and holidays values were missing so I parsed the date column with Dataiku DSS and extracted it as a .csv file. I wrote
    Python code to insert the missing days, added the value of the previous day, and extracted it as a .csv to upload on Looker Studio.
 
-To access the dashboard, click here: [Coca-Cola Stock Analytics dashboard](https://lookerstudio.google.com/s/koiJvb2lLeM). To access the Python code to solve the missing data challenge, check the attached .ipynb file.
+To access the dashboard, click here: [Coca-Cola Stock Analytics dashboard](https://lookerstudio.google.com/embed/reporting/606e64cf-f921-46f8-8f44-fc00c776c883/page/FarED). To access the Python code to solve the missing data challenge, check the attached .ipynb file.
 
 ## Coca-Cola Stocks Analytics 
 
