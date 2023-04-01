@@ -1,4 +1,4 @@
-# Coca-Cola Stock Analytics Dashboard
+# Coca-Cola's Stock Analytics Dashboard
 
 For the past three months, I received advice and support from professionals working in technology companies to develop this Coca-Cola Stock Analytics dashboard. This is a personal project I built to put into practice the tools I am currently learning. 
 
