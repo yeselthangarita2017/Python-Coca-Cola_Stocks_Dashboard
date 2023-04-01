@@ -38,7 +38,7 @@ I believe other interesting analysis can be done with this dataset.
 ## Questions answered on this dashboard
 
 1. What is Coca-Cola's dividend history?  
-2. Does the high price increases or decreases year-of-year (YoY)? 
-3. Does the close price increases or decreases year-of-year (YoY)? 
+2. Does the high price increase or decreases year-of-year (YoY)? 
+3. Does the close price increase or decreases year-of-year (YoY)? 
 4. How has Coca-Cola performed compared to its industry peers, such as PepsiCo? 
 5. Is Coca-Cola stock history showing reliable long-term investment based on their history data? 
