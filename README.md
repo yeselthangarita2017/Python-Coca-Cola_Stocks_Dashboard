@@ -13,14 +13,14 @@ Here are a few highlights:
    and the last 5 years, which may indicate that Coca-Cola has stronger growth prospects. 
 
 2. Finding and fixing data quality issues:
-  
-  a) Extraction - The data was pulled from Kaggle as a .csv file and uploaded on Google Looker Studio to create 
-  exploratory visualizations and come up with a series of diagnoses of the challenge and quickly debut. 
-  
-  b) Transformation - Dataiku DSS supported the analysis of rows and columns, especially on the "Date" column. This is how I 
-  discovered that there were random clusters of rows in the Date column with different date formats. Further, I noticed that 
-  weekends and holidays values were missing so I parsed the date column with Dataiku DSS and extracted it as a .csv file. I wrote 
-  Python code to insert the missing days, added the value of the previous day, and extracted it as a .csv to upload on Looker Studio.
+   
+   a) Extraction - The data was pulled from Kaggle as a .csv file and uploaded on Google Looker Studio to create 
+   exploratory visualizations and come up with a series of diagnoses of the challenge and quickly debut. 
+   
+   b) Transformation - Dataiku DSS supported the analysis of rows and columns, especially on the "Date" column. This is how I
+   discovered that there were random clusters of rows in the Date column with different date formats. Further, I noticed that
+   weekends and holidays values were missing so I parsed the date column with Dataiku DSS and extracted it as a .csv file. I wrote
+   Python code to insert the missing days, added the value of the previous day, and extracted it as a .csv to upload on Looker Studio.
 
 To access the dashboard, click here: [Coca-Cola Stock Analytics dashboard](https://lookerstudio.google.com/s/koiJvb2lLeM). To access the Python code to solve the missing data challenge, check the attached .ipynb file.
 ## Coca-Cola Stocks Analytics 
