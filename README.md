@@ -1,6 +1,6 @@
 # Coca-Cola's Stock Analytics Dashboard
 
-For the past two months, I received advice and support from professionals working in technology companies to develop this Coca-Cola Stock Analytics dashboard. This is a personal project I built to put into practice the tools I am currently learning. 
+For the past two months, I designed and developed this Coca-Cola Stock Analytics dashboard. This is a personal project I built to put into practice the tools I am currently learning. 
 
 I built this dashboard by pulling the information from [Kaggle Coca-Cola Stock History](https://www.kaggle.com/datasets/kalilurrahman/coca-cola-stock-live-and-updated) public dataset. I used Google Sheets and Dataiku DSS for experiments and parse the dates column. I used Google Looker Studio to create this dashboard to facilitate the decision-making analysis of shareholders (CEO, current employees) and prospectus who are considering investing in Coca-Cola's Stocks. 
 
